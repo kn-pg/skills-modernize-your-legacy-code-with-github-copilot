@@ -1,0 +1,9 @@
+{
+  "name": "school-accounting-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/accounting/index.js",
+    "test": "node --test"
+  }
+}
